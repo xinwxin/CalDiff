@@ -55,7 +55,7 @@ CUDA_VISIBLE_DEVICES=1 ./miniconda3/envs/py39_pt19/bin/python -m torch.distribut
 ## Dual Mechanism
 
 Function training_losses_segmentation() from guided_diffusion/gaussian_diffusion.py
-where $L_{\text{KL}}$ and $L_{\text{KL}}$ are defined and weighted
+where $L_{\text{KL}}$ and $L_{\text{SA}}$ are defined and weighted
 
 Calibration module at guided_diffusion/distribution.py
 
