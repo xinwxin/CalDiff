@@ -1,5 +1,5 @@
 # CalDiff
-Code for manuscript *Step-wise and sequence-aware uncertainty calibration in diffusion model for reliable lesion segmentation*
+Code for manuscript *CalDiff: calibrating uncertainty and accessing reliability of diffusion models for trustworthy lesion segmentation*
 submitted to IEEE JBHI
 
 ## Environment setup

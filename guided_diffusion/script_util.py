@@ -142,7 +142,7 @@ def create_model_and_diffusion(
                                      no_convs_per_block,
                                      latent_dim,
                                      initializers,
-                                     posterior=True
+                                     posterior=False
     ).to(device, dtype=torch.double)
    
     posterior = AxisAlignedConvGaussian(input_channels_dist,
